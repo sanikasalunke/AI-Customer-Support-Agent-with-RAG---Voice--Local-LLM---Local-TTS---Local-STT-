@@ -1,0 +1,20 @@
+fastapi
+uvicorn[standard]
+starlette
+python-multipart
+llama-cpp-python>=0.1.50
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+pydantic
+streamlit>=1.25
+whisperx            # or openai/whisper package; whisperx if available for local
+torch               # required by many speech libs (install CPU/GPU variant)
+coqui-tts           # may require extra system deps
+transformers
+pdfminer.six
+python-multipart
+aiofiles
+requests
+uvicorn
+websockets
+typing_extensions

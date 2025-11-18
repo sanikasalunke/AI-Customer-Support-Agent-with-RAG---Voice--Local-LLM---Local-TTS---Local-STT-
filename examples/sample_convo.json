@@ -1,0 +1,7 @@
+{
+  "session_id": "example",
+  "history": [
+    ["user", "My device won't charge after the latest update."],
+    ["bot", "I'm sorry to hear that. Did the charging indicator appear at all after connecting the charger?"]
+  ]
+}
